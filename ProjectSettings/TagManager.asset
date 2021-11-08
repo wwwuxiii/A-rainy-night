@@ -3,7 +3,40 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - dollUI
+  - doll
+  - drawer01
+  - drawer02
+  - drawer03
+  - drawer011
+  - drawer021
+  - drawer031
+  - PlayerCude01
+  - PlayerCude02
+  - mancala01
+  - mancala011
+  - chess01
+  - chess011
+  - sports01
+  - sports011
+  - Door01
+  - Door011
+  - puzzle1
+  - puzzle2
+  - puzzle3
+  - puzzle4
+  - puzzle5
+  - puzzle6
+  - puzzle7
+  - puzzle8
+  - puzzle9
+  - arrangedpuzzle
+  - planeGame
+  - doorLock
+  - computer
+  - Coins
+  - GUI
   layers:
   - Default
   - TransparentFX
